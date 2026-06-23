@@ -1,0 +1,13 @@
+django>=5.0,<6.0
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+psycopg2-binary
+redis
+celery
+pillow
+django-environ
+xhtml2pdf
+openpyxl
+gunicorn
+whitenoise>=6.0.0
